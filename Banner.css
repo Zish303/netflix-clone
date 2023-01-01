@@ -1,0 +1,28 @@
+header {
+  background-color: black;
+}
+
+.banner {
+  color: white;
+  object-fit: contain;
+  height: 487px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  background-size: cover;
+}
+
+.banner-title {
+  margin-left: 35px;
+  margin-bottom: 15px;
+  font-size: 34px;
+  letter-spacing: 3px;
+  padding-top: 160px;
+  max-width: 55vw;
+}
+
+.banner-desc {
+  margin-left: 35px;
+  max-width: 600px;
+  font-size: 16px;
+  max-width: 65vw;
+}

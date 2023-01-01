@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  margin-top: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+.root {
+  margin-top: 0px;
+  position: fixed;
+  top: 0px;
+}
+
+.App {
+  background-color: rgb(12, 12, 12);
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav {
+  display: flex;
+  height: 30px;
+  position: absolute;
+  padding: 15px;
+}
+
+.nav-logo {
+  height: 30px;
+}
